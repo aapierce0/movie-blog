@@ -1,2 +1,4 @@
 remote_theme: aapierce0/hydeout
 title: Clueless Movie Critic
+plugins:
+  - jekyll-feed
